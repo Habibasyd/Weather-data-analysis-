@@ -8,7 +8,7 @@ The primary goal was to thoroughly explore the weather dataset, check for data q
 
 ## 📊 Dataset Overview
 
-The dataset (`1. Weather Data.csv`) contains hourly weather measurements recorded over one full year (8784 records).
+The dataset (`Weather Data.csv`) contains hourly weather measurements recorded over one full year (8784 records).
 
 | Column Name | Data Type | Description |
 | :--- | :--- | :--- |
