@@ -86,4 +86,4 @@ The following questions were addressed and solved using Pandas indexing, aggrega
 
 ---
 
-Feel free to check out the accompanying Jupyter Notebook (`weather_analysis (1).ipynb`) for the full code and output from each step!
+Feel free to check out the accompanying Jupyter Notebook (`weather_analysis.ipynb`) for the full code and output from each step!
